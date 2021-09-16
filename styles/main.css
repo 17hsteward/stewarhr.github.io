@@ -12,6 +12,9 @@ h1,h2,h3{
 body#about img{
     height: 15em;
 }
+body#about p{ 
+     float:right ;
+}
 p{
     max-width: 50em;
 }
