@@ -30,10 +30,19 @@ h1,h2,h3{
     line-height: 1;
     font-family: 'Yesteryear', cursive;
     color: var(--heading-color);
-   
-
-    
 }
+h2{
+    color:#73388f;
+}
+h3{
+    color: #923eb9;
+}
+button{
+    background-color:var(--light-color);
+    border: none;
+    color: var(--contrast-color);
+}
+
 body#about img{
     height: 15em;
     float: right;
